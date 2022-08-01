@@ -21,10 +21,9 @@ const Meta = ({ title, description, keywords }: MetaInterface) => {
 
 Meta.defaultProps = {
   title: "Giro Calvario",
-  description:
-    "A single website with lots of awesome and cool stuffs for students and developers.",
+  description: "A single website with lots of awesome and cool stuffs for students and developers.",
   keywords:
-    "students, developers, cool stuffs, awesome stuffs, web development, programming",
+    "Gian Roi Calvario, Giro Calvario, students, developers, cool stuffs, awesome stuffs, web development, programming",
 };
 
 export default Meta;

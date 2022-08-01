@@ -8,13 +8,13 @@ export default function Home() {
       <section className="h-screen font-roboto px-12 lg:px-36 flex flex-row flex-wrap items-center justify-center lg:justify-start">
         <div className="lg:w-3/6 flex flex-col items-center lg:items-start z-10">
           <h1 className="font-bold text-4xl lg:text-4xl">
-            <span className="hidden lg:inline">Hi! I&#39;m </span>Gian Roi Calvario
+            <span className="hidden lg:inline">Hi, I&#39;m </span>Gian Roi Calvario
           </h1>
           <h2 className="font-medium text-xl lg:text-2xl text-gray-500 mb-10 lg:mb-6">Full Stack Web Developer</h2>
           <h3 className="text-justify lg:w-4/5">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-            dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-            ea commodo consequat.
+            I&#39;m a full stack web developer from the Philippines. I enjoy building websites, applications and tools
+            for my client from simple landing page to powerful interactive applications. If you are a business seeking
+            for web pressence or an employer looking to hire, you can get in touch with me.
           </h3>
         </div>
         <div className="lg:w-3/6 absolute lg:static">
