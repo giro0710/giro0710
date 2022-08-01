@@ -18,11 +18,11 @@ const Nav = () => {
       </div>
       <ul className="flex flex-row items-center ml-auto">
         <li className="hidden lg:inline-block mr-5 transition hover:font-semibold hover:scale-110 hover:duration-300 hover:ease-in-out">
-          <Link href="/register">Create an Account</Link>
+          <Link href="/">Create an Account</Link>
         </li>
         <li className="">
           <Button>
-            <Link href="/docs">Get Started</Link>
+            <Link href="/">Get Started</Link>
           </Button>
         </li>
       </ul>
