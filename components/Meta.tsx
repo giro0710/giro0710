@@ -46,9 +46,10 @@ const Meta = ({ title, description, keywords, locale, type, card, image, url }: 
 
 Meta.defaultProps = {
   title: "Giro Calvario",
-  description: "A single website with lots of awesome and cool stuffs for students and developers.",
+  description:
+    "I'm a full-stack web developer from the Philippines. I enjoy building websites, applications, and tools for my client from simple landing pages to powerful interactive applications. If you are a business seeking for web presence or an employer looking to hire, you can get in touch with me.",
   keywords:
-    "Gian Roi Calvario, Giro Calvario, students, developers, cool stuffs, awesome stuffs, web development, programming",
+    "Gian Roi Calvario, Giro Calvario, students, developers, cool stuffs, awesome stuffs, web development, programming, web developer, full stack, full-stack",
   locale: "en_US",
   type: "article",
   card: "summary",

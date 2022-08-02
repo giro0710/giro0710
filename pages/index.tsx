@@ -12,9 +12,9 @@ export default function Home() {
           </h1>
           <h2 className="font-medium text-xl lg:text-2xl text-gray-500 mb-10 lg:mb-6">Full Stack Web Developer</h2>
           <h3 className="text-justify lg:w-4/5">
-            I&#39;m a full stack web developer from the Philippines. I enjoy building websites, applications and tools
-            for my client from simple landing page to powerful interactive applications. If you are a business seeking
-            for web pressence or an employer looking to hire, you can get in touch with me.
+            I&#39;m a full-stack web developer from the Philippines. I enjoy building websites, applications, and tools
+            for my client from simple landing pages to powerful interactive applications. If you are a business seeking
+            for web presence or an employer looking to hire, you can get in touch with me.
           </h3>
         </div>
         <div className="lg:w-3/6 absolute lg:static">
