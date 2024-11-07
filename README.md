@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Giro Calvario
 - 👀 I’m interested in building amazing things
-- 🌱 I’m currently learning Flutter
+- 🌱 Enhancing and widening my backend skills + learning AI
 - 📫 How to reach me: girocalvario@gmail.com
 - 🌐 You can also visit https://girocalvario.vercel.app to know more about me
